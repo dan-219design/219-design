@@ -1,0 +1,12 @@
+[submodule "repository/wasm_test_file"]
+	path = repository/wasm_test_file
+	url = https://github.com/219-design/wasm_test_file.git
+[submodule "repository/wasm_test_thread"]
+	path = repository/wasm_test_thread
+	url = https://github.com/219-design/wasm_test_thread
+[submodule "repository/wasm_test_gles3"]
+	path = repository/wasm_test_gles3
+	url = https://github.com/219-design/wasm_test_gles3
+[submodule "repository/wasm_test_vr"]
+	path = repository/wasm_test_vr
+	url = https://github.com/219-design/wasm_test_vr
