@@ -195,7 +195,7 @@ Module['FS_createPath']('/', 'src_asset', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 90, "filename": "/src_asset/stl.vert"}, {"start": 90, "audio": 0, "end": 222, "filename": "/src_asset/stl.frag"}], "remote_package_size": 222, "package_uuid": "21ef5543-4d44-426c-b7c3-09c0a0c04f5c"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 90, "filename": "/src_asset/stl.vert"}, {"start": 90, "audio": 0, "end": 222, "filename": "/src_asset/stl.frag"}], "remote_package_size": 222, "package_uuid": "5bb85683-c9cf-437b-9253-67e68c25434c"});
 
 })();
 
